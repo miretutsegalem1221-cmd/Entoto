@@ -65,6 +65,8 @@ const descriptions = {
 
 // Availability status
 const availability = {
+  "IMAGES/d/n.jpg": true,
+  "IMAGES/25.jpg": true,
   "IMAGES/2.jpg": true,
   "IMAGES/26.jpg": true,
   "IMAGES/27.jpg" : true,
